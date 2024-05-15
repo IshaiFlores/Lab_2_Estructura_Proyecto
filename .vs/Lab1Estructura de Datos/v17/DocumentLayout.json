@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{384D93DA-00B2-45E4-88DC-20168C3530CA}|Lab1Estructura de Datos\\Lab1Estructura de Datos.vcxproj|C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Lab1Estructura de Datos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{384D93DA-00B2-45E4-88DC-20168C3530CA}|Lab1Estructura de Datos\\Lab1Estructura de Datos.vcxproj|solutionrelative:Lab1Estructura de Datos\\Lab1Estructura de Datos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384D93DA-00B2-45E4-88DC-20168C3530CA}|Lab1Estructura de Datos\\Lab1Estructura de Datos.vcxproj|C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Logica.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{384D93DA-00B2-45E4-88DC-20168C3530CA}|Lab1Estructura de Datos\\Lab1Estructura de Datos.vcxproj|solutionrelative:Lab1Estructura de Datos\\Logica.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384D93DA-00B2-45E4-88DC-20168C3530CA}|Lab1Estructura de Datos\\Lab1Estructura de Datos.vcxproj|C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Apartment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{384D93DA-00B2-45E4-88DC-20168C3530CA}|Lab1Estructura de Datos\\Lab1Estructura de Datos.vcxproj|solutionrelative:Lab1Estructura de Datos\\Apartment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384D93DA-00B2-45E4-88DC-20168C3530CA}|Lab1Estructura de Datos\\Lab1Estructura de Datos.vcxproj|C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Premises.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{384D93DA-00B2-45E4-88DC-20168C3530CA}|Lab1Estructura de Datos\\Lab1Estructura de Datos.vcxproj|solutionrelative:Lab1Estructura de Datos\\Premises.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384D93DA-00B2-45E4-88DC-20168C3530CA}|Lab1Estructura de Datos\\Lab1Estructura de Datos.vcxproj|C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Build.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{384D93DA-00B2-45E4-88DC-20168C3530CA}|Lab1Estructura de Datos\\Lab1Estructura de Datos.vcxproj|solutionrelative:Lab1Estructura de Datos\\Build.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384D93DA-00B2-45E4-88DC-20168C3530CA}|Lab1Estructura de Datos\\Lab1Estructura de Datos.vcxproj|C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Logica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{384D93DA-00B2-45E4-88DC-20168C3530CA}|Lab1Estructura de Datos\\Lab1Estructura de Datos.vcxproj|solutionrelative:Lab1Estructura de Datos\\Logica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384D93DA-00B2-45E4-88DC-20168C3530CA}|Lab1Estructura de Datos\\Lab1Estructura de Datos.vcxproj|C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Sector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{384D93DA-00B2-45E4-88DC-20168C3530CA}|Lab1Estructura de Datos\\Lab1Estructura de Datos.vcxproj|solutionrelative:Lab1Estructura de Datos\\Sector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384D93DA-00B2-45E4-88DC-20168C3530CA}|Lab1Estructura de Datos\\Lab1Estructura de Datos.vcxproj|C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Search.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{384D93DA-00B2-45E4-88DC-20168C3530CA}|Lab1Estructura de Datos\\Lab1Estructura de Datos.vcxproj|solutionrelative:Lab1Estructura de Datos\\Search.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384D93DA-00B2-45E4-88DC-20168C3530CA}|Lab1Estructura de Datos\\Lab1Estructura de Datos.vcxproj|C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\House.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{384D93DA-00B2-45E4-88DC-20168C3530CA}|Lab1Estructura de Datos\\Lab1Estructura de Datos.vcxproj|solutionrelative:Lab1Estructura de Datos\\House.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logica.cpp",
+              "DocumentMoniker": "C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Logica.cpp",
+              "RelativeDocumentMoniker": "Lab1Estructura de Datos\\Logica.cpp",
+              "ToolTip": "C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Logica.cpp",
+              "RelativeToolTip": "Lab1Estructura de Datos\\Logica.cpp",
+              "ViewState": "AQIAAE4BAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-15T03:25:57.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sector.h",
+              "DocumentMoniker": "C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Sector.h",
+              "RelativeDocumentMoniker": "Lab1Estructura de Datos\\Sector.h",
+              "ToolTip": "C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Sector.h",
+              "RelativeToolTip": "Lab1Estructura de Datos\\Sector.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-15T03:29:05.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Search.h",
+              "DocumentMoniker": "C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Search.h",
+              "RelativeDocumentMoniker": "Lab1Estructura de Datos\\Search.h",
+              "ToolTip": "C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Search.h",
+              "RelativeToolTip": "Lab1Estructura de Datos\\Search.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-15T03:26:47.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Premises.h",
+              "DocumentMoniker": "C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Premises.h",
+              "RelativeDocumentMoniker": "Lab1Estructura de Datos\\Premises.h",
+              "ToolTip": "C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Premises.h",
+              "RelativeToolTip": "Lab1Estructura de Datos\\Premises.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-15T03:26:44.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Build.h",
+              "DocumentMoniker": "C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Build.h",
+              "RelativeDocumentMoniker": "Lab1Estructura de Datos\\Build.h",
+              "ToolTip": "C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Build.h",
+              "RelativeToolTip": "Lab1Estructura de Datos\\Build.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-15T03:26:38.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Apartment.h",
+              "DocumentMoniker": "C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Apartment.h",
+              "RelativeDocumentMoniker": "Lab1Estructura de Datos\\Apartment.h",
+              "ToolTip": "C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Apartment.h",
+              "RelativeToolTip": "Lab1Estructura de Datos\\Apartment.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-15T03:26:37.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logica.h",
+              "DocumentMoniker": "C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Logica.h",
+              "RelativeDocumentMoniker": "Lab1Estructura de Datos\\Logica.h",
+              "ToolTip": "C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Logica.h",
+              "RelativeToolTip": "Lab1Estructura de Datos\\Logica.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-15T03:25:42.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "House.h",
+              "DocumentMoniker": "C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\House.h",
+              "RelativeDocumentMoniker": "Lab1Estructura de Datos\\House.h",
+              "ToolTip": "C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\House.h",
+              "RelativeToolTip": "Lab1Estructura de Datos\\House.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-15T03:25:40.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab1Estructura de Datos.cpp",
+              "DocumentMoniker": "C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Lab1Estructura de Datos.cpp",
+              "RelativeDocumentMoniker": "Lab1Estructura de Datos\\Lab1Estructura de Datos.cpp",
+              "ToolTip": "C:\\Users\\Ishai\\source\\repos\\Lab2_Estruuctura-de-Datos_-Hector-FLores\\Lab1Estructura de Datos\\Lab1Estructura de Datos.cpp",
+              "RelativeToolTip": "Lab1Estructura de Datos\\Lab1Estructura de Datos.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-03T20:58:13.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
